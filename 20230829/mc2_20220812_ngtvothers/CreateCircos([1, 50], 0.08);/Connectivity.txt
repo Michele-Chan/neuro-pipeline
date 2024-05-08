@@ -1,0 +1,11 @@
+chr - hs1 VTA 1 51 chr22
+chr - hs2 CeA 1 51 chr22
+chr - hs3 BLA 1 51 chr22
+chr - hs4 VP 1 51 chr22
+chr - hs5 NAcs 1 51 chr22
+chr - hs6 NAcc 1 51 chr22
+chr - hs7 mPFCa 1 51 chr22
+chr - hs8 mPFCp 1 51 chr22
+chr - hs9 OFCp 1 51 chr22
+chr - hs10 OFCa 1 51 chr22
+chr - hs11 vHPC 1 51 chr22
